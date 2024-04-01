@@ -1,3 +1,5 @@
+#print poem Twinkle twinkle little star
+print()
 print ('''
 Twinkle, twinkle, little star,
 	How I wonder what you are! 
@@ -5,4 +7,5 @@ Twinkle, twinkle, little star,
 		Like a diamond in the sky. 
 Twinkle, twinkle, little star, 
 	How I wonder what you are
-       ''')
+       ''')       
+print()
